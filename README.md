@@ -1,2 +1,2 @@
 # selsnium_test_demo
-selenium使用初学demo，适用于我个人习惯的关键字驱动
+selenium初学demo，适用于我个人习惯的关键字驱动
